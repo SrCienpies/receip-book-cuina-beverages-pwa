@@ -1,979 +1,981 @@
-[
-   {
-      "nombre":"Old Fashioned",
-      "categoria":"Aperitivos",
-      "ingredientes":[
-         "2 oz Sazerac",
-         "¼ Jarabe",
-         "4 dashes de Angostura bitters (bien dados)",
-         "Refrescar durante mínimo 20 segundos --> Probar si la temperatura es correcta",
-         "Servir con Bola de Hielo"
-      ],
-      "preparacion":"Refrescado",
-      "decoracion":"1 piel de naranja + 1 pincho con marraschino Luxardo",
-      "metodo":"Refrescado",
-      "cristaleria":"Vaso old fashioned"
-   },
-   {
-      "nombre":"Capitán Cuina",
-      "categoria":"Aperitivos",
-      "ingredientes":[
-         "¾ oz Pisco Moscatel",
-         "¾ oz Pisco Quebranta",
-         "1 oz Vermuth di Torino",
-         "⅛ oz Cognac",
-         "1/16 oz Oporto",
-         "1 dash de bitter de chocolate",
-         "2 dash de bitter de naranja",
-         "2 gotas de solucion salina"
-      ],
-      "preparacion":"Refrescado",
-      "decoracion":"Piel de naranja + Pincho con doble aceituna",
-      "metodo":"Refrescado",
-      "cristaleria":"Copa Martini o vaso Mikonos (si lo piden en las rocas)"
-   },
-   {
-      "nombre":"Vesper Martini",
-      "categoria":"Aperitivos",
-      "ingredientes":[
-         "2 oz Gin Gordons",
-         "1 oz Vodka",
-         "½ oz Vermouth americano Cocchi"
-      ],
-      "preparacion":"Batido",
-      "decoracion":"Piel de lima",
-      "metodo":"Batido",
-      "cristaleria":"Copa Martini"
-   },
-   {
-      "nombre":"Negroni De Barrica",
-      "categoria":"Aperitivos",
-      "ingredientes":[
-         "3 oz Negroni En Barrica"
-      ],
-      "preparacion":"Directo (refrescado 5 segundos antes de presentarlo para que agarre temperatura)",
-      "decoracion":"Medialuna de naranja",
-      "metodo":"Directo (refrescado 5 segundos antes de presentarlo para que agarre temperatura)",
-      "cristaleria":"Vaso Mikonos (con 5 hielos)"
-   },
-   {
-      "nombre":"Capitanilla",
-      "categoria":"Aperitivos",
-      "ingredientes":[
-         "1 ½ oz Kakawi Brandy",
-         "1 ½ oz Vermuth Barroco",
-         "2 dash Bitter Cacao",
-         "2 dash Bitter Amaro",
-         "1 Gota de Solucion Salina"
-      ],
-      "preparacion":"Refrescado",
-      "decoracion":"Pincho con Aceitna",
-      "metodo":"Refrescado",
-      "cristaleria":"Copa"
-   },
-   {
-      "nombre":"Pisco Sour",
-      "categoria":"Sour",
-      "ingredientes":[
-         "3 oz pisco quebranta (Sérvulo)",
-         "1 oz limón criollo",
-         "1 oz jarabe de azúcar"
-      ],
-      "preparacion":"Batido",
-      "decoracion":"3 puntos de Angostura bitters",
-      "metodo":"Batido",
-      "cristaleria":"Vaso Agripa"
-   },
-   {
-      "nombre":"Cosmopolitan",
-      "categoria":"Sour",
-      "ingredientes":[
-         "1½ Vodka",
-         "1/8 Hpnotiq",
-         "½ oz Luxardo triple sec Triplum",
-         "¼ oz zumo de limón Tahiti",
-         "¼ oz jarabe simple",
-         "1 oz Jugo de Cranberry"
-      ],
-      "preparacion":"Batido",
-      "decoracion":"Pincho con 3 arandanos",
-      "metodo":"Batido",
-      "cristaleria":"Copa Conexion"
-   },
-   {
-      "nombre":"Amaretto Sour",
-      "categoria":"Sour",
-      "ingredientes":[
-         "1 1/2 oz amarettoLuxardo",
-         "¾ oz tahití",
-         "¼ oz jarabe de azúcar",
-         "¾ oz JW Black label",
-         "112 oz clara"
-      ],
-      "preparacion":"Dry Shake",
-      "decoracion":"Medialuna de naranja",
-      "metodo":"Dry Shake",
-      "cristaleria":"Vaso Monterrey c/ 4 hielos"
-   },
-   {
-      "nombre":"Hemingway Daiquiri",
-      "categoria":"Sour",
-      "ingredientes":[
-         "2 14 oz Ron claro",
-         "14 oz Licor Marraschino Luxardo",
-         "1 oz toronja",
-         "½ oz limón",
-         "½ oz jarabe de azúcar"
-      ],
-      "preparacion":"Batido",
-      "decoracion":"Piel de toronja",
-      "metodo":"Batido",
-      "cristaleria":"Copa Conexxion"
-   },
-   {
-      "nombre":"Clover Club",
-      "categoria":"Sour",
-      "ingredientes":[
-         "1 1/2 oz Gin Greenalls",
-         "1 oz Jarabe de frambuesa",
-         "½ oz Cinzano Vermouth extra dry",
-         "½ oz limón Tahití",
-         "1½ oz clara de huevo"
-      ],
-      "preparacion":"Dry shake",
-      "decoracion":"polvo de frambuesa y 3 frambuesas en pincho",
-      "metodo":"Dry shake",
-      "cristaleria":"Coupe connexion"
-   },
-   {
-      "nombre":"Bramble",
-      "categoria":"Sour",
-      "ingredientes":[
-         "2 oz Gin Greenalls",
-         "½ oz jarabe de azucar",
-         "½ oz limón Tahití",
-         "¾ oz licor de BlackBerry (ponerlo cuando ya se sirvió el coctel)"
-      ],
-      "preparacion":"Batido/completado",
-      "decoracion":"1 flor y 1 rodaja de limón deshidratado",
-      "metodo":"Batido/completado",
-      "cristaleria":"Vaso Mikonos (con 4 hielos)"
-   },
-   {
-      "nombre":"Jardin de Verano",
-      "categoria":"Sour",
-      "ingredientes":[
-         "1 ½ oz Kakawi Normal",
-         "¼ oz Luxardo Marashino",
-         "¼ oz Limon Tahiti",
-         "½ oz Licor de Rosas",
-         "1 oz Shrub Fresa",
-         "½ oz Clara de Huevo"
-      ],
-      "preparacion":"Dray Shake",
-      "decoracion":"2 Rosas y tierra de Fresas",
-      "metodo":"Dray Shake",
-      "cristaleria":"Copa Coupe"
-   },
-   {
-      "nombre":"Calentito",
-      "categoria":"Invierno",
-      "ingredientes":[
-         "½ Oz Miel",
-         "½ Oz Limón",
-         "2 oz Macerado Calentito",
-         "1 oz Infusión Calentito",
-         "Llenar con agua hirviendo"
-      ],
-      "preparacion":"Directo",
-      "decoracion":"Media luna de Manzana con azúcar flambeada",
-      "metodo":"Directo",
-      "cristaleria":"Vaso Borgonovo Elba"
-   },
-   {
-      "nombre":"Te Piteado",
-      "categoria":"Invierno",
-      "ingredientes":[
-         "½ Oz Miel",
-         "½ Oz Limón",
-         "1 ½ oz Tamboo",
-         "½ Angostura blanco",
-         "1 oz Infusión Te Piteado",
-         "Llenar con agua hirviendo"
-      ],
-      "preparacion":"Directo",
-      "decoracion":"Media luna de Naranja con azúcar flambeada",
-      "metodo":"Directo",
-      "cristaleria":"Vaso Borgonovo Elba"
-   },
-   {
-      "nombre":"Vin Brulle",
-      "categoria":"Invierno",
-      "ingredientes":[
-         "6 Oz Vino",
-         "½ Oz Jarabe de Arándanos",
-         "Canela, Clavo, Anís estrella y medialuna de naranja",
-         "Vaporizar hasta 80 grados",
-         "Colar en la copa"
-      ],
-      "preparacion":"Directo vaporizado",
-      "decoracion":"Media luna de Naranja con azúcar flambeada (la misma que se usó para prepararlo)",
-      "metodo":"Directo vaporizado",
-      "cristaleria":"Copa de Caliente"
-   },
-   {
-      "nombre":"La Cuina Colada",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 oz Botran5",
-         "3 oz Piña",
-         "1 oz Naranja",
-         "1 oz Crema de coco Real",
-         "2 Dashes de Angostura Bitters"
-      ],
-      "preparacion":"Batido / OJO: sin doble colado",
-      "decoracion":"Sorbete Blanco, naranja + ralladura de nuez moscada + Penacho corto de Hierba Buena",
-      "metodo":"Batido / OJO: sin doble colado",
-      "cristaleria":"Vaso de cerveza"
-   },
-   {
-      "nombre":"Claudia Sling",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "1 ½ oz Gin Greenals",
-         "3 oz piña",
-         "½ Luxardo licor de marrasquinos",
-         "¼ Luxardo Triple sec triplum",
-         "½ limon tahiti",
-         "¼ Fernet",
-         "¼ jarabe de granadina",
-         "1 dash Angostura bitter"
-      ],
-      "preparacion":"Batido con hielo pile",
-      "decoracion":"Sorbete negro, una Flor bonita.",
-      "metodo":"Batido con hielo pile",
-      "cristaleria":"Vaso Tiki"
-   },
-   {
-      "nombre":"El Diablo",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "½ Tequila jimador infusionado en aji amarillo",
-         "¼ Mezcal Koch espadin",
-         "¼ Sinsonte",
-         "½ Marie Blizzard licor de cassis",
-         "½ zumo de limon tahiti",
-         "2 ½ oz Ginger beer britvick"
-      ],
-      "preparacion":"Batido doble colado/ Completado",
-      "decoracion":"crusta de sal de ajíes, Media Luna de Toronja Flameada",
-      "metodo":"Batido doble colado/ Completado",
-      "cristaleria":"Copa Pilsener"
-   },
-   {
-      "nombre":"Mai Tai",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "1 oz. Plantation",
-         "1 oz Myers",
-         "½ oz Luxardo Triple sec triplum",
-         "1 oz orgeat",
-         "¼ oz jarabe simple",
-         "¾ oz limón Tahití",
-         "½ oz lima",
-         "Hielo: Hielo Pile"
-      ],
-      "preparacion":"batido por 8 segundos.",
-      "decoracion":"brote de hierba buena, Media Luna de Limon ralladura de nuez moscada",
-      "metodo":"batido por 8 segundos.",
-      "cristaleria":"Vaso Mikonos"
-   },
-   {
-      "nombre":"Mojito",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 ½ oz Ron Botran5",
-         "½ oz limón",
-         "1 oz jarabe de azúcar",
-         "8 ramas con brotes y tallo de hierba buena",
-         "Batir en coctelera y servir en vaso",
-         "3 gotas de agua con sal",
-         "Agregar 2 hielos",
-         "Completar con 3 oz agua con gas"
-      ],
-      "preparacion":"Batido — Completado",
-      "decoracion":"1 tallo de hierba buena y 1 limon deshidratado",
-      "metodo":"Batido — Completado",
-      "cristaleria":"Vaso long drink (servir el mojito colado, sin sedimentos)"
-   },
-   {
-      "nombre":"Paloma",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "1½ oz Jimador Tequila blanco",
-         "½ oz Koch Mezcal espadín",
-         "1 ½ oz cordial de toronja",
-         "½ oz zumo de limón Tahití",
-         "3 oz Perkins toronja",
-         "3 gotas solución salina"
-      ],
-      "preparacion":"Directo",
-      "decoracion":"Borde ancho tierra de ajíes",
-      "metodo":"Directo",
-      "cristaleria":"Vaso Long drink"
-   },
-   {
-      "nombre":"La Cuina Mule",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 oz Vodka de vainilla",
-         "½ oz de limón Tahití",
-         "¼ oz Jarabe de Kion",
-         "¾ botella Ginger beer Mr. Perkins"
-      ],
-      "preparacion":"Machacado/Directo",
-      "decoracion":"1 rama de Hierba Buena + 2 limones deshidratados",
-      "metodo":"Machacado/Directo",
-      "cristaleria":"Taza de cobre"
-   },
-   {
-      "nombre":"Ron Mule",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 oz Ron Goslings",
-         "¼ oz limón Tahiti",
-         "¾ oz botella Mr. Perkins ginger beer"
-      ],
-      "preparacion":"Directo",
-      "decoracion":"1 piel de limón Tahití",
-      "metodo":"Directo",
-      "cristaleria":"Vaso Chilcano"
-   },
-   {
-      "nombre":"Shoulder",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "1 ½ oz Wiskey Monkey",
-         "½ oz Cordial Durazno",
-         "¼ oz Liquor de Sauco",
-         "¼ oz triple sec",
-         "hierba buena",
-         "Completar con Agua Tonica"
-      ],
-      "preparacion":"Batido, Doble colado",
-      "decoracion":"Hierba Buena, Limón Deshidratado y Sorbete Blanco",
-      "metodo":"Batido, Doble colado",
-      "cristaleria":"Vaso Long Drink"
-   },
-   {
-      "nombre":"Nala",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 oz Ron Viejo de Caldas",
-         "1 oz Jarabe de Pepino Melón",
-         "¼ oz Licor 43",
-         "¼ oz Zumo de Limon Tahiti",
-         "½ oz Clara de Huevo"
-      ],
-      "preparacion":"Batido con HIELO PILE",
-      "decoracion":"Flor Pequeña",
-      "metodo":"Batido con HIELO PILE",
-      "cristaleria":"Copa Delgada Larga"
-   },
-   {
-      "nombre":"Fernet con Coca",
-      "categoria":"Refrescantes",
-      "ingredientes":[
-         "2 oz Fernet Branca",
-         "5 oz Coca Cola"
-      ],
-      "preparacion":"Directo",
-      "decoracion":"Limon",
-      "metodo":"Directo",
-      "cristaleria":"Vaso: Long Drink"
-   },
-   {
-      "nombre":"Chilcano Italia",
-      "categoria":"Chilcanos",
-      "ingredientes":[
-         "2 oz pisco italia",
-         "1 lata de Britvic ginger ale"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Chilcano",
-      "decoracion":"1 lámina de manzana y 1 piel de naranja"
-   },
-   {
-      "nombre":"Chilcano Moscatel",
-      "categoria":"Chilcanos",
-      "ingredientes":[
-         "2 oz pisco moscatel",
-         "1 lata de Britvic ginger ale"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Chilcano",
-      "decoracion":"1 piña deshidratada y 1 ramita de canela prendida"
-   },
-   {
-      "nombre":"Chilcano Torontel",
-      "categoria":"Chilcanos",
-      "ingredientes":[
-         "2 oz pisco torontel",
-         "1 lata de Britvic ginger ale"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Chilcano",
-      "decoracion":"1 Piel de Toronja y 1 piel de Lima"
-   },
-   {
-      "nombre":"Chilcano Quebranta",
-      "categoria":"Chilcanos",
-      "ingredientes":[
-         "2 oz pisco quebranta",
-         "1 lata de Britvic ginger ale"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Chilcano",
-      "decoracion":"1 rodaja de limón deshidratado y 2 uvas en un pincho"
-   },
-   {
-      "nombre":"Sol Y Sombra",
-      "categoria":"Chilcanos",
-      "ingredientes":[
-         "1 ½ oz Guinda Servulo",
-         "3/4 oz Pisco Moscatel",
-         "150ml Ginger Ale Britvick",
-         "Verter hielos y ginger ale en el vaso, hacer la sombra con la guinda y el pisco en un vaso de refrescado y verterla en el vaso con cuidado para que quede separada"
-      ],
-      "preparacion":"Directo / Top",
-      "cristaleria":"Vaso Sandra Highball",
-      "decoracion":"Pincho con 2 aceitunas y twist de piel de toronja"
-   },
-   {
-      "nombre":"Gng",
-      "categoria":"Virgen",
-      "ingredientes":[
-         "2 oz zumo de naranja",
-         "150ml ginger ale Britvick",
-         "1 oz Granadina"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Long Drink",
-      "decoracion":"el esfumado de la granadina"
-   },
-   {
-      "nombre":"Yerbathai",
-      "categoria":"Virgen",
-      "ingredientes":[
-         "1 oz jarabe",
-         "¾ Limón Tahití",
-         "2 oz zumo de piña",
-         "10 hojas de hierba buena",
-         "Batir con hielo y servir en vaso",
-         "Completar con 3 Oz de agua tónica"
-      ],
-      "preparacion":"Batido / Top",
-      "cristaleria":"Long Drink",
-      "decoracion":"Rama de Hierbabuena"
-   },
-   {
-      "nombre":"San Francisco",
-      "categoria":"Virgen",
-      "ingredientes":[
-         "2½ oz jugo de piña",
-         "2½ oz jugo de naranja",
-         "1 oz jugo de limón Tahití",
-         "½ oz jarabe de granadina"
-      ],
-      "preparacion":"directo",
-      "cristaleria":"Long Drink",
-      "decoracion":"Medialuna de naranja"
-   },
-   {
-      "nombre":"Berries&Sour",
-      "categoria":"Virgen",
-      "ingredientes":[
-         "3 oz jugo de arándanos",
-         "½ oz limón Tahití",
-         "1 oz Jarabe de Frambuesa",
-         "3 oz Soda"
-      ],
-      "preparacion":"directo",
-      "cristaleria":"Long Drink",
-      "decoracion":"rodaja de limón y pincho con 3 arándanos"
-   },
-   {
-      "nombre":"Fresa Salvaje",
-      "categoria":"Virgen",
-      "ingredientes":[
-         "2 ½ oz Jugo de Piña",
-         "1 ¼ OZ Shrub de Fresa",
-         "½ oz Zumo de Limon Tahiti",
-         "Hojas De Menta",
-         "Agua Tonica",
-         "Hielo Pile"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Long drink",
-      "decoracion":"Sorbete Negro, Hierba buena y Tierra de Fresa"
-   },
-   {
-      "nombre":"Algarrobina",
-      "categoria":"Digestivos",
-      "ingredientes":[
-         "1 ¾ oz pisco Sérvulo Quebranta",
-         "2 oz del mix algarrobina",
-         "1 ½ oz Leche evaporada",
-         "1 oz yema de huevo"
-      ],
-      "preparacion":"Batido",
-      "cristaleria":"Copa Premier de vino blanco",
-      "decoracion":"línea de polvo de cacao"
-   },
-   {
-      "nombre":"Espresso Martini",
-      "categoria":"Digestivos",
-      "ingredientes":[
-         "1 ¾ oz Vodka vainilla",
-         "½ oz licor de café (Gran Kafa)",
-         "½ oz jarabe de azúcar",
-         "1 shot de espresso doble"
-      ],
-      "preparacion":"Batido",
-      "cristaleria":"Copa Martini",
-      "decoracion":"3 Granos De Café"
-   },
-   {
-      "nombre":"Ferroviario",
-      "categoria":"Digestivos",
-      "ingredientes":[
-         "1 oz Fernet Branca",
-         "2 oz Cinzano Vermuth Rosso",
-         "2 oz Agua con Gas"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Long Drink",
-      "decoracion":"Media Luna de Naranja"
-   },
-   {
-      "nombre":"Aperol Spritz",
-      "categoria":"Spritz",
-      "ingredientes":[
-         "2 oz Aperol",
-         "3 oz Cinzano proseco",
-         "1 oz agua con gas",
-         "— poner hielo a ¾ del vaso —"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Spritz",
-      "decoracion":"Medialuna de naranja"
-   },
-   {
-      "nombre":"Hugo Spritz",
-      "categoria":"Spritz",
-      "ingredientes":[
-         "½ oz Quaglia Liquore di Sambuco",
-         "¼ oz Jarabe Simple",
-         "1 tallo de menta",
-         "— machacar —",
-         "4 oz proseco (Cinzano)",
-         "1 oz agua con gas",
-         "— poner hielo a ¾ del vaso —"
-      ],
-      "preparacion":"Directo / machacado",
-      "cristaleria":"Vaso Spritz",
-      "decoracion":"Tallo de menta y rodaja de limon"
-   },
-   {
-      "nombre":"Limoncello Spritz",
-      "categoria":"Spritz",
-      "ingredientes":[
-         "3 oz Vino Chardonay",
-         "1 oz Luxardo limoncello",
-         "¼ oz limon tahiti",
-         "¼ oz jarabe de azucar",
-         "Britvick agua tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Vaso Spritz",
-      "decoracion":"ramita de perejil"
-   },
-   {
-      "nombre":"Mimosa",
-      "categoria":"Spritz",
-      "ingredientes":[
-         "2 oz Naranja Fresca",
-         "5 oz Prosecco Cinzao"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa de Vino Blanco",
-      "decoracion":"Media luna de Naranja"
-   },
-   {
-      "nombre":"Torontel Tonic",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz Pisco Servulo Torontel",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa Balón",
-      "decoracion":"Piel de totonja con 5 clavos de olor"
-   },
-   {
-      "nombre":"BERRIES TONIC",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz Gin Greenalls",
-         "3 dash de Bitter de Frutos Rojos",
-         "Agua tónica"
-      ],
-      "preparacion":null,
-      "cristaleria":"Copa Balón",
-      "decoracion":"Frutos rojos y Flor"
-   },
-   {
-      "nombre":"Gin & Tonic Bombay",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Bombay",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"1 piel de limón tahiti + 1 ramita de canela ligeramente prendida"
-   },
-   {
-      "nombre":"Gin & Tonic Tanqueray",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Tanqueray",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"1 Gajo de Limon"
-   },
-   {
-      "nombre":"Gin & Tonic Tanqueray N° Ten",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Tanqueray N° Ten",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"1 Gajo de toronja"
-   },
-   {
-      "nombre":"Gin & Tonic Beefeater 24",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Beefeater 24",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"1 piel de toronja + 1 bastón de romero"
-   },
-   {
-      "nombre":"Gin & Tonic Amazonian Company",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Amazonian Company",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"Piel de lima y perfume de vainilla"
-   },
-   {
-      "nombre":"Gin & Tonic Citadelle",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Citadelle",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"1 piel de lima + 1 anís estrella ligeramente prendido"
-   },
-   {
-      "nombre":"Gin & Tonic Hendrick's",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz gin Hendrick's",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"2 piel de pepino kyuri"
-   },
-   {
-      "nombre":"PISCO & TONIC Receta Estándar",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz pisco de elección",
-         "1 Britvick Agua Tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa balón",
-      "decoracion":"según la cepa\n* Uvina Ángel Negro: 1 pincho c/ 2 aceitunas verdes + 02 hojas de salvia\n* Mollar 3 Generaciones: 1 piel de toronja + pimienta molle\n* Torontel Servulo: 1 piel de toronja y 5 clavos de olor"
-   },
-   {
-      "nombre":"Vermuth Tonic",
-      "categoria":"Tonic",
-      "ingredientes":[
-         "2 oz Vermut Barroco",
-         "Agua tonica"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa Vino Tinto",
-      "decoracion":"Media Luna de Naranjan"
-   },
-   {
-      "nombre":"Tinto De verano",
-      "categoria":"Vino",
-      "ingredientes":[
-         "4½ oz Vino",
-         "1 oz Vermuth Rosso Barroco",
-         "¾ oz limón",
-         "1 oz jarabe Simple",
-         "2 oz soda"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa Madisson",
-      "decoracion":"cascara de naranja y brote de romero"
-   },
-   {
-      "nombre":"Sangria",
-      "categoria":"Vino",
-      "ingredientes":[
-         "3 oz Vino",
-         "1 oz Jarabe",
-         "¾ oz limón",
-         "¾ oz Naranja",
-         "¾ oz Pisco Italia cuatro fundos",
-         "2 oz soda"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Copa Madisson",
-      "decoracion":"4 frambuesas 2 arándanos y medialuna de manzana"
-   },
-   {
-      "nombre":"Sangria Jarra",
-      "categoria":"Vino",
-      "ingredientes":[
-         "9 oz Vino",
-         "3 oz Jarabe",
-         "2 oz limón",
-         "2 oz Naranja",
-         "2 oz pisco Italia cuatro fundos",
-         "6 oz soda"
-      ],
-      "preparacion":"Directo",
-      "cristaleria":"Jarra y vasos Old fashioned",
-      "decoracion":"4 frambuesas 2 arándanos y medialuna de manzana"
-   },
-   {
-      "nombre":"Espresso Simple",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso simple",
-         "1 oz de Café (hasta la rayita)"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café espresso con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Espresso Doble",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso doble",
-         "2 oz de Café (hasta la rayita)"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café espresso con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Macchiato / Cortado",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso simple",
-         "1 oz de Café (hasta la rayita)",
-         "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
-         "Llenamos la taza con espuma de leche"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café espresso con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Americano",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso simple",
-         "Dejamos que la taza de café americano se llene a la mitad y completamos con agua caliente"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café americano con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Capuccino",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso simple",
-         "1½ oz de Café (hasta la rayita)",
-         "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
-         "Movemos la jarrita de leche para integrar leche y espuma y eliminar burbujas grandes",
-         "Llenamos la taza con leche y espuma a la vez"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de capuchino con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Mokaccino",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "Pala de esperesso simple",
-         "1½ oz de Café (hasta la rayita)",
-         "1 oz de fudge",
-         "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
-         "Movemos la jarrita de leche para integrar leche y espuma y eliminar burbujas grandes",
-         "Llenamos la taza con leche y espuma a la vez"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café americano con platito y cucharita chica",
-      "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
-   },
-   {
-      "nombre":"Chocolate Caliente",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "6 oz de Leche",
-         "6 tabletas de chocolate de 60%",
-         "½ Oz de jarabe de vainilla",
-         "Cascara de naranja, canela y clavo",
-         "Calentamos en jarra mediana hasta los 80º",
-         "Servimos colado",
-         "Batimos con el batidor de mano después de servido"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza transparente con pedestal",
-      "decoracion":null
-   },
-   {
-      "nombre":"Infusiones De Sobre",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "1 sobre de infusión en jarra mediana o grande (rinde 2 a 3 tazas)"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café americano con platito y cucharita chica",
-      "decoracion":null
-   },
-   {
-      "nombre":"Infusiones De Hierba/Grano",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "“Una cucharadita por taza más 1 para la tetera”, en jarra grande"
-      ],
-      "preparacion":null,
-      "cristaleria":"Taza de café americano con platito y cucharita chica",
-      "decoracion":null
-   },
-   {
-      "nombre":"Jugo De Piña",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "5 oz Zumo de Piña",
-         "½ oz de Jarabe de azúcar",
-         "4.5 oz de agua y/o hielo (jarra pequeñita)",
-         "Programa frappe de la licuadora"
-      ],
-      "preparacion":null,
-      "cristaleria":"Copa Piña colada",
-      "decoracion":null
-   },
-   {
-      "nombre":"Jugo De Fresa",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "150g de fresas congeladas (un paquete)",
-         "½ oz de Jarabe de azúcar",
-         "4.5 oz de agua y/o hielo (jarra pequeñita)",
-         "Programa frappe de la licuadora"
-      ],
-      "preparacion":null,
-      "cristaleria":"Copa Piña Colada",
-      "decoracion":null
-   },
-   {
-      "nombre":"Jugo De Fresa Con Leche",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "150g de fresas congeladas (un paquete)",
-         "½ oz de Jarabe de azúcar",
-         "4.5 oz de leche (jarra pequeñita)",
-         "Programa frappe de la licuadora"
-      ],
-      "preparacion":null,
-      "cristaleria":"Copa Piña Colada",
-      "decoracion":null
-   },
-   {
-      "nombre":"Gaseosas",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         
-      ],
-      "preparacion":null,
-      "cristaleria":"vaso old fashioned",
-      "decoracion":null
-   },
-   {
-      "nombre":"Limonada Vaso",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "1 oz de jugo de limón",
-         "1 oz de Jarabe de azúcar",
-         "Llenar con agua",
-         "Mover con cucharilla de bar"
-      ],
-      "preparacion":null,
-      "cristaleria":"Vaso cervecero",
-      "decoracion":null
-   },
-   {
-      "nombre":"Limonada Jarra",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "1 ¾ oz de azúcar",
-         "3 limones criollos",
-         "Se cortan los 2 “polos” de cada limón",
-         "Se pone en la licuadora 1 litro de agua y el azúcar en velocidad 2 por 15 segundos",
-         "Se ponen los 3 limones y se da velocidad máxima por 10 Segundos (botón Pulse)",
-         "Se cuela en la jarra"
-      ],
-      "preparacion":null,
-      "cristaleria":"Jarra y vasos Old fashioned",
-      "decoracion":null
-   },
-   {
-      "nombre":"Limonada Real",
-      "categoria":"Cafeteria",
-      "ingredientes":[
-         "1/2 oz de jugo de limón TAHITI",
-         "1 oz de Jarabe Real del caso",
-         "6 oz de agua helada",
-         "Hielo"
-      ],
-      "preparacion":"Shakeado",
-      "cristaleria":"Vaso cervecero",
-      "decoracion":"rodaja de limón y cañita"
-   }
-]
+{
+   "recetas":[
+      {
+         "nombre":"Old Fashioned",
+         "categoria":"Aperitivos",
+         "ingredientes":[
+            "2 oz Sazerac",
+            "¼ Jarabe",
+            "4 dashes de Angostura bitters (bien dados)",
+            "Refrescar durante mínimo 20 segundos --> Probar si la temperatura es correcta",
+            "Servir con Bola de Hielo"
+         ],
+         "preparacion":"Refrescado",
+         "decoracion":"1 piel de naranja + 1 pincho con marraschino Luxardo",
+         "metodo":"Refrescado",
+         "cristaleria":"Vaso old fashioned"
+      },
+      {
+         "nombre":"Capitán Cuina",
+         "categoria":"Aperitivos",
+         "ingredientes":[
+            "¾ oz Pisco Moscatel",
+            "¾ oz Pisco Quebranta",
+            "1 oz Vermuth di Torino",
+            "⅛ oz Cognac",
+            "1/16 oz Oporto",
+            "1 dash de bitter de chocolate",
+            "2 dash de bitter de naranja",
+            "2 gotas de solucion salina"
+         ],
+         "preparacion":"Refrescado",
+         "decoracion":"Piel de naranja + Pincho con doble aceituna",
+         "metodo":"Refrescado",
+         "cristaleria":"Copa Martini o vaso Mikonos (si lo piden en las rocas)"
+      },
+      {
+         "nombre":"Vesper Martini",
+         "categoria":"Aperitivos",
+         "ingredientes":[
+            "2 oz Gin Gordons",
+            "1 oz Vodka",
+            "½ oz Vermouth americano Cocchi"
+         ],
+         "preparacion":"Batido",
+         "decoracion":"Piel de lima",
+         "metodo":"Batido",
+         "cristaleria":"Copa Martini"
+      },
+      {
+         "nombre":"Negroni De Barrica",
+         "categoria":"Aperitivos",
+         "ingredientes":[
+            "3 oz Negroni En Barrica"
+         ],
+         "preparacion":"Directo (refrescado 5 segundos antes de presentarlo para que agarre temperatura)",
+         "decoracion":"Medialuna de naranja",
+         "metodo":"Directo (refrescado 5 segundos antes de presentarlo para que agarre temperatura)",
+         "cristaleria":"Vaso Mikonos (con 5 hielos)"
+      },
+      {
+         "nombre":"Capitanilla",
+         "categoria":"Aperitivos",
+         "ingredientes":[
+            "1 ½ oz Kakawi Brandy",
+            "1 ½ oz Vermuth Barroco",
+            "2 dash Bitter Cacao",
+            "2 dash Bitter Amaro",
+            "1 Gota de Solucion Salina"
+         ],
+         "preparacion":"Refrescado",
+         "decoracion":"Pincho con Aceitna",
+         "metodo":"Refrescado",
+         "cristaleria":"Copa"
+      },
+      {
+         "nombre":"Pisco Sour",
+         "categoria":"Sour",
+         "ingredientes":[
+            "3 oz pisco quebranta (Sérvulo)",
+            "1 oz limón criollo",
+            "1 oz jarabe de azúcar"
+         ],
+         "preparacion":"Batido",
+         "decoracion":"3 puntos de Angostura bitters",
+         "metodo":"Batido",
+         "cristaleria":"Vaso Agripa"
+      },
+      {
+         "nombre":"Cosmopolitan",
+         "categoria":"Sour",
+         "ingredientes":[
+            "1½ Vodka",
+            "1/8 Hpnotiq",
+            "½ oz Luxardo triple sec Triplum",
+            "¼ oz zumo de limón Tahiti",
+            "¼ oz jarabe simple",
+            "1 oz Jugo de Cranberry"
+         ],
+         "preparacion":"Batido",
+         "decoracion":"Pincho con 3 arandanos",
+         "metodo":"Batido",
+         "cristaleria":"Copa Conexion"
+      },
+      {
+         "nombre":"Amaretto Sour",
+         "categoria":"Sour",
+         "ingredientes":[
+            "1 1/2 oz amarettoLuxardo",
+            "¾ oz tahití",
+            "¼ oz jarabe de azúcar",
+            "¾ oz JW Black label",
+            "112 oz clara"
+         ],
+         "preparacion":"Dry Shake",
+         "decoracion":"Medialuna de naranja",
+         "metodo":"Dry Shake",
+         "cristaleria":"Vaso Monterrey c/ 4 hielos"
+      },
+      {
+         "nombre":"Hemingway Daiquiri",
+         "categoria":"Sour",
+         "ingredientes":[
+            "2 14 oz Ron claro",
+            "14 oz Licor Marraschino Luxardo",
+            "1 oz toronja",
+            "½ oz limón",
+            "½ oz jarabe de azúcar"
+         ],
+         "preparacion":"Batido",
+         "decoracion":"Piel de toronja",
+         "metodo":"Batido",
+         "cristaleria":"Copa Conexxion"
+      },
+      {
+         "nombre":"Clover Club",
+         "categoria":"Sour",
+         "ingredientes":[
+            "1 1/2 oz Gin Greenalls",
+            "1 oz Jarabe de frambuesa",
+            "½ oz Cinzano Vermouth extra dry",
+            "½ oz limón Tahití",
+            "1½ oz clara de huevo"
+         ],
+         "preparacion":"Dry shake",
+         "decoracion":"polvo de frambuesa y 3 frambuesas en pincho",
+         "metodo":"Dry shake",
+         "cristaleria":"Coupe connexion"
+      },
+      {
+         "nombre":"Bramble",
+         "categoria":"Sour",
+         "ingredientes":[
+            "2 oz Gin Greenalls",
+            "½ oz jarabe de azucar",
+            "½ oz limón Tahití",
+            "¾ oz licor de BlackBerry (ponerlo cuando ya se sirvió el coctel)"
+         ],
+         "preparacion":"Batido/completado",
+         "decoracion":"1 flor y 1 rodaja de limón deshidratado",
+         "metodo":"Batido/completado",
+         "cristaleria":"Vaso Mikonos (con 4 hielos)"
+      },
+      {
+         "nombre":"Jardin de Verano",
+         "categoria":"Sour",
+         "ingredientes":[
+            "1 ½ oz Kakawi Normal",
+            "¼ oz Luxardo Marashino",
+            "¼ oz Limon Tahiti",
+            "½ oz Licor de Rosas",
+            "1 oz Shrub Fresa",
+            "½ oz Clara de Huevo"
+         ],
+         "preparacion":"Dray Shake",
+         "decoracion":"2 Rosas y tierra de Fresas",
+         "metodo":"Dray Shake",
+         "cristaleria":"Copa Coupe"
+      },
+      {
+         "nombre":"Calentito",
+         "categoria":"Invierno",
+         "ingredientes":[
+            "½ Oz Miel",
+            "½ Oz Limón",
+            "2 oz Macerado Calentito",
+            "1 oz Infusión Calentito",
+            "Llenar con agua hirviendo"
+         ],
+         "preparacion":"Directo",
+         "decoracion":"Media luna de Manzana con azúcar flambeada",
+         "metodo":"Directo",
+         "cristaleria":"Vaso Borgonovo Elba"
+      },
+      {
+         "nombre":"Te Piteado",
+         "categoria":"Invierno",
+         "ingredientes":[
+            "½ Oz Miel",
+            "½ Oz Limón",
+            "1 ½ oz Tamboo",
+            "½ Angostura blanco",
+            "1 oz Infusión Te Piteado",
+            "Llenar con agua hirviendo"
+         ],
+         "preparacion":"Directo",
+         "decoracion":"Media luna de Naranja con azúcar flambeada",
+         "metodo":"Directo",
+         "cristaleria":"Vaso Borgonovo Elba"
+      },
+      {
+         "nombre":"Vin Brulle",
+         "categoria":"Invierno",
+         "ingredientes":[
+            "6 Oz Vino",
+            "½ Oz Jarabe de Arándanos",
+            "Canela, Clavo, Anís estrella y medialuna de naranja",
+            "Vaporizar hasta 80 grados",
+            "Colar en la copa"
+         ],
+         "preparacion":"Directo vaporizado",
+         "decoracion":"Media luna de Naranja con azúcar flambeada (la misma que se usó para prepararlo)",
+         "metodo":"Directo vaporizado",
+         "cristaleria":"Copa de Caliente"
+      },
+      {
+         "nombre":"La Cuina Colada",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 oz Botran5",
+            "3 oz Piña",
+            "1 oz Naranja",
+            "1 oz Crema de coco Real",
+            "2 Dashes de Angostura Bitters"
+         ],
+         "preparacion":"Batido / OJO: sin doble colado",
+         "decoracion":"Sorbete Blanco, naranja + ralladura de nuez moscada + Penacho corto de Hierba Buena",
+         "metodo":"Batido / OJO: sin doble colado",
+         "cristaleria":"Vaso de cerveza"
+      },
+      {
+         "nombre":"Claudia Sling",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "1 ½ oz Gin Greenals",
+            "3 oz piña",
+            "½ Luxardo licor de marrasquinos",
+            "¼ Luxardo Triple sec triplum",
+            "½ limon tahiti",
+            "¼ Fernet",
+            "¼ jarabe de granadina",
+            "1 dash Angostura bitter"
+         ],
+         "preparacion":"Batido con hielo pile",
+         "decoracion":"Sorbete negro, una Flor bonita.",
+         "metodo":"Batido con hielo pile",
+         "cristaleria":"Vaso Tiki"
+      },
+      {
+         "nombre":"El Diablo",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "½ Tequila jimador infusionado en aji amarillo",
+            "¼ Mezcal Koch espadin",
+            "¼ Sinsonte",
+            "½ Marie Blizzard licor de cassis",
+            "½ zumo de limon tahiti",
+            "2 ½ oz Ginger beer britvick"
+         ],
+         "preparacion":"Batido doble colado/ Completado",
+         "decoracion":"crusta de sal de ajíes, Media Luna de Toronja Flameada",
+         "metodo":"Batido doble colado/ Completado",
+         "cristaleria":"Copa Pilsener"
+      },
+      {
+         "nombre":"Mai Tai",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "1 oz. Plantation",
+            "1 oz Myers",
+            "½ oz Luxardo Triple sec triplum",
+            "1 oz orgeat",
+            "¼ oz jarabe simple",
+            "¾ oz limón Tahití",
+            "½ oz lima",
+            "Hielo: Hielo Pile"
+         ],
+         "preparacion":"batido por 8 segundos.",
+         "decoracion":"brote de hierba buena, Media Luna de Limon ralladura de nuez moscada",
+         "metodo":"batido por 8 segundos.",
+         "cristaleria":"Vaso Mikonos"
+      },
+      {
+         "nombre":"Mojito",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 ½ oz Ron Botran5",
+            "½ oz limón",
+            "1 oz jarabe de azúcar",
+            "8 ramas con brotes y tallo de hierba buena",
+            "Batir en coctelera y servir en vaso",
+            "3 gotas de agua con sal",
+            "Agregar 2 hielos",
+            "Completar con 3 oz agua con gas"
+         ],
+         "preparacion":"Batido — Completado",
+         "decoracion":"1 tallo de hierba buena y 1 limon deshidratado",
+         "metodo":"Batido — Completado",
+         "cristaleria":"Vaso long drink (servir el mojito colado, sin sedimentos)"
+      },
+      {
+         "nombre":"Paloma",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "1½ oz Jimador Tequila blanco",
+            "½ oz Koch Mezcal espadín",
+            "1 ½ oz cordial de toronja",
+            "½ oz zumo de limón Tahití",
+            "3 oz Perkins toronja",
+            "3 gotas solución salina"
+         ],
+         "preparacion":"Directo",
+         "decoracion":"Borde ancho tierra de ajíes",
+         "metodo":"Directo",
+         "cristaleria":"Vaso Long drink"
+      },
+      {
+         "nombre":"La Cuina Mule",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 oz Vodka de vainilla",
+            "½ oz de limón Tahití",
+            "¼ oz Jarabe de Kion",
+            "¾ botella Ginger beer Mr. Perkins"
+         ],
+         "preparacion":"Machacado/Directo",
+         "decoracion":"1 rama de Hierba Buena + 2 limones deshidratados",
+         "metodo":"Machacado/Directo",
+         "cristaleria":"Taza de cobre"
+      },
+      {
+         "nombre":"Ron Mule",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 oz Ron Goslings",
+            "¼ oz limón Tahiti",
+            "¾ oz botella Mr. Perkins ginger beer"
+         ],
+         "preparacion":"Directo",
+         "decoracion":"1 piel de limón Tahití",
+         "metodo":"Directo",
+         "cristaleria":"Vaso Chilcano"
+      },
+      {
+         "nombre":"Shoulder",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "1 ½ oz Wiskey Monkey",
+            "½ oz Cordial Durazno",
+            "¼ oz Liquor de Sauco",
+            "¼ oz triple sec",
+            "hierba buena",
+            "Completar con Agua Tonica"
+         ],
+         "preparacion":"Batido, Doble colado",
+         "decoracion":"Hierba Buena, Limón Deshidratado y Sorbete Blanco",
+         "metodo":"Batido, Doble colado",
+         "cristaleria":"Vaso Long Drink"
+      },
+      {
+         "nombre":"Nala",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 oz Ron Viejo de Caldas",
+            "1 oz Jarabe de Pepino Melón",
+            "¼ oz Licor 43",
+            "¼ oz Zumo de Limon Tahiti",
+            "½ oz Clara de Huevo"
+         ],
+         "preparacion":"Batido con HIELO PILE",
+         "decoracion":"Flor Pequeña",
+         "metodo":"Batido con HIELO PILE",
+         "cristaleria":"Copa Delgada Larga"
+      },
+      {
+         "nombre":"Fernet con Coca",
+         "categoria":"Refrescantes",
+         "ingredientes":[
+            "2 oz Fernet Branca",
+            "5 oz Coca Cola"
+         ],
+         "preparacion":"Directo",
+         "decoracion":"Limon",
+         "metodo":"Directo",
+         "cristaleria":"Vaso: Long Drink"
+      },
+      {
+         "nombre":"Chilcano Italia",
+         "categoria":"Chilcanos",
+         "ingredientes":[
+            "2 oz pisco italia",
+            "1 lata de Britvic ginger ale"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Chilcano",
+         "decoracion":"1 lámina de manzana y 1 piel de naranja"
+      },
+      {
+         "nombre":"Chilcano Moscatel",
+         "categoria":"Chilcanos",
+         "ingredientes":[
+            "2 oz pisco moscatel",
+            "1 lata de Britvic ginger ale"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Chilcano",
+         "decoracion":"1 piña deshidratada y 1 ramita de canela prendida"
+      },
+      {
+         "nombre":"Chilcano Torontel",
+         "categoria":"Chilcanos",
+         "ingredientes":[
+            "2 oz pisco torontel",
+            "1 lata de Britvic ginger ale"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Chilcano",
+         "decoracion":"1 Piel de Toronja y 1 piel de Lima"
+      },
+      {
+         "nombre":"Chilcano Quebranta",
+         "categoria":"Chilcanos",
+         "ingredientes":[
+            "2 oz pisco quebranta",
+            "1 lata de Britvic ginger ale"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Chilcano",
+         "decoracion":"1 rodaja de limón deshidratado y 2 uvas en un pincho"
+      },
+      {
+         "nombre":"Sol Y Sombra",
+         "categoria":"Chilcanos",
+         "ingredientes":[
+            "1 ½ oz Guinda Servulo",
+            "3/4 oz Pisco Moscatel",
+            "150ml Ginger Ale Britvick",
+            "Verter hielos y ginger ale en el vaso, hacer la sombra con la guinda y el pisco en un vaso de refrescado y verterla en el vaso con cuidado para que quede separada"
+         ],
+         "preparacion":"Directo / Top",
+         "cristaleria":"Vaso Sandra Highball",
+         "decoracion":"Pincho con 2 aceitunas y twist de piel de toronja"
+      },
+      {
+         "nombre":"Gng",
+         "categoria":"Virgen",
+         "ingredientes":[
+            "2 oz zumo de naranja",
+            "150ml ginger ale Britvick",
+            "1 oz Granadina"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Long Drink",
+         "decoracion":"el esfumado de la granadina"
+      },
+      {
+         "nombre":"Yerbathai",
+         "categoria":"Virgen",
+         "ingredientes":[
+            "1 oz jarabe",
+            "¾ Limón Tahití",
+            "2 oz zumo de piña",
+            "10 hojas de hierba buena",
+            "Batir con hielo y servir en vaso",
+            "Completar con 3 Oz de agua tónica"
+         ],
+         "preparacion":"Batido / Top",
+         "cristaleria":"Long Drink",
+         "decoracion":"Rama de Hierbabuena"
+      },
+      {
+         "nombre":"San Francisco",
+         "categoria":"Virgen",
+         "ingredientes":[
+            "2½ oz jugo de piña",
+            "2½ oz jugo de naranja",
+            "1 oz jugo de limón Tahití",
+            "½ oz jarabe de granadina"
+         ],
+         "preparacion":"directo",
+         "cristaleria":"Long Drink",
+         "decoracion":"Medialuna de naranja"
+      },
+      {
+         "nombre":"Berries&Sour",
+         "categoria":"Virgen",
+         "ingredientes":[
+            "3 oz jugo de arándanos",
+            "½ oz limón Tahití",
+            "1 oz Jarabe de Frambuesa",
+            "3 oz Soda"
+         ],
+         "preparacion":"directo",
+         "cristaleria":"Long Drink",
+         "decoracion":"rodaja de limón y pincho con 3 arándanos"
+      },
+      {
+         "nombre":"Fresa Salvaje",
+         "categoria":"Virgen",
+         "ingredientes":[
+            "2 ½ oz Jugo de Piña",
+            "1 ¼ OZ Shrub de Fresa",
+            "½ oz Zumo de Limon Tahiti",
+            "Hojas De Menta",
+            "Agua Tonica",
+            "Hielo Pile"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Long drink",
+         "decoracion":"Sorbete Negro, Hierba buena y Tierra de Fresa"
+      },
+      {
+         "nombre":"Algarrobina",
+         "categoria":"Digestivos",
+         "ingredientes":[
+            "1 ¾ oz pisco Sérvulo Quebranta",
+            "2 oz del mix algarrobina",
+            "1 ½ oz Leche evaporada",
+            "1 oz yema de huevo"
+         ],
+         "preparacion":"Batido",
+         "cristaleria":"Copa Premier de vino blanco",
+         "decoracion":"línea de polvo de cacao"
+      },
+      {
+         "nombre":"Espresso Martini",
+         "categoria":"Digestivos",
+         "ingredientes":[
+            "1 ¾ oz Vodka vainilla",
+            "½ oz licor de café (Gran Kafa)",
+            "½ oz jarabe de azúcar",
+            "1 shot de espresso doble"
+         ],
+         "preparacion":"Batido",
+         "cristaleria":"Copa Martini",
+         "decoracion":"3 Granos De Café"
+      },
+      {
+         "nombre":"Ferroviario",
+         "categoria":"Digestivos",
+         "ingredientes":[
+            "1 oz Fernet Branca",
+            "2 oz Cinzano Vermuth Rosso",
+            "2 oz Agua con Gas"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Long Drink",
+         "decoracion":"Media Luna de Naranja"
+      },
+      {
+         "nombre":"Aperol Spritz",
+         "categoria":"Spritz",
+         "ingredientes":[
+            "2 oz Aperol",
+            "3 oz Cinzano proseco",
+            "1 oz agua con gas",
+            "— poner hielo a ¾ del vaso —"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Spritz",
+         "decoracion":"Medialuna de naranja"
+      },
+      {
+         "nombre":"Hugo Spritz",
+         "categoria":"Spritz",
+         "ingredientes":[
+            "½ oz Quaglia Liquore di Sambuco",
+            "¼ oz Jarabe Simple",
+            "1 tallo de menta",
+            "— machacar —",
+            "4 oz proseco (Cinzano)",
+            "1 oz agua con gas",
+            "— poner hielo a ¾ del vaso —"
+         ],
+         "preparacion":"Directo / machacado",
+         "cristaleria":"Vaso Spritz",
+         "decoracion":"Tallo de menta y rodaja de limon"
+      },
+      {
+         "nombre":"Limoncello Spritz",
+         "categoria":"Spritz",
+         "ingredientes":[
+            "3 oz Vino Chardonay",
+            "1 oz Luxardo limoncello",
+            "¼ oz limon tahiti",
+            "¼ oz jarabe de azucar",
+            "Britvick agua tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Vaso Spritz",
+         "decoracion":"ramita de perejil"
+      },
+      {
+         "nombre":"Mimosa",
+         "categoria":"Spritz",
+         "ingredientes":[
+            "2 oz Naranja Fresca",
+            "5 oz Prosecco Cinzao"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa de Vino Blanco",
+         "decoracion":"Media luna de Naranja"
+      },
+      {
+         "nombre":"Torontel Tonic",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz Pisco Servulo Torontel",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa Balón",
+         "decoracion":"Piel de totonja con 5 clavos de olor"
+      },
+      {
+         "nombre":"BERRIES TONIC",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz Gin Greenalls",
+            "3 dash de Bitter de Frutos Rojos",
+            "Agua tónica"
+         ],
+         "preparacion":null,
+         "cristaleria":"Copa Balón",
+         "decoracion":"Frutos rojos y Flor"
+      },
+      {
+         "nombre":"Gin & Tonic Bombay",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Bombay",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"1 piel de limón tahiti + 1 ramita de canela ligeramente prendida"
+      },
+      {
+         "nombre":"Gin & Tonic Tanqueray",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Tanqueray",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"1 Gajo de Limon"
+      },
+      {
+         "nombre":"Gin & Tonic Tanqueray N° Ten",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Tanqueray N° Ten",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"1 Gajo de toronja"
+      },
+      {
+         "nombre":"Gin & Tonic Beefeater 24",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Beefeater 24",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"1 piel de toronja + 1 bastón de romero"
+      },
+      {
+         "nombre":"Gin & Tonic Amazonian Company",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Amazonian Company",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"Piel de lima y perfume de vainilla"
+      },
+      {
+         "nombre":"Gin & Tonic Citadelle",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Citadelle",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"1 piel de lima + 1 anís estrella ligeramente prendido"
+      },
+      {
+         "nombre":"Gin & Tonic Hendrick's",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz gin Hendrick's",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"2 piel de pepino kyuri"
+      },
+      {
+         "nombre":"PISCO & TONIC Receta Estándar",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz pisco de elección",
+            "1 Britvick Agua Tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa balón",
+         "decoracion":"según la cepa\n* Uvina Ángel Negro: 1 pincho c/ 2 aceitunas verdes + 02 hojas de salvia\n* Mollar 3 Generaciones: 1 piel de toronja + pimienta molle\n* Torontel Servulo: 1 piel de toronja y 5 clavos de olor"
+      },
+      {
+         "nombre":"Vermuth Tonic",
+         "categoria":"Tonic",
+         "ingredientes":[
+            "2 oz Vermut Barroco",
+            "Agua tonica"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa Vino Tinto",
+         "decoracion":"Media Luna de Naranjan"
+      },
+      {
+         "nombre":"Tinto De verano",
+         "categoria":"Vino",
+         "ingredientes":[
+            "4½ oz Vino",
+            "1 oz Vermuth Rosso Barroco",
+            "¾ oz limón",
+            "1 oz jarabe Simple",
+            "2 oz soda"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa Madisson",
+         "decoracion":"cascara de naranja y brote de romero"
+      },
+      {
+         "nombre":"Sangria",
+         "categoria":"Vino",
+         "ingredientes":[
+            "3 oz Vino",
+            "1 oz Jarabe",
+            "¾ oz limón",
+            "¾ oz Naranja",
+            "¾ oz Pisco Italia cuatro fundos",
+            "2 oz soda"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Copa Madisson",
+         "decoracion":"4 frambuesas 2 arándanos y medialuna de manzana"
+      },
+      {
+         "nombre":"Sangria Jarra",
+         "categoria":"Vino",
+         "ingredientes":[
+            "9 oz Vino",
+            "3 oz Jarabe",
+            "2 oz limón",
+            "2 oz Naranja",
+            "2 oz pisco Italia cuatro fundos",
+            "6 oz soda"
+         ],
+         "preparacion":"Directo",
+         "cristaleria":"Jarra y vasos Old fashioned",
+         "decoracion":"4 frambuesas 2 arándanos y medialuna de manzana"
+      },
+      {
+         "nombre":"Espresso Simple",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso simple",
+            "1 oz de Café (hasta la rayita)"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café espresso con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Espresso Doble",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso doble",
+            "2 oz de Café (hasta la rayita)"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café espresso con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Macchiato / Cortado",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso simple",
+            "1 oz de Café (hasta la rayita)",
+            "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
+            "Llenamos la taza con espuma de leche"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café espresso con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Americano",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso simple",
+            "Dejamos que la taza de café americano se llene a la mitad y completamos con agua caliente"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café americano con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Capuccino",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso simple",
+            "1½ oz de Café (hasta la rayita)",
+            "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
+            "Movemos la jarrita de leche para integrar leche y espuma y eliminar burbujas grandes",
+            "Llenamos la taza con leche y espuma a la vez"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de capuchino con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Mokaccino",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "Pala de esperesso simple",
+            "1½ oz de Café (hasta la rayita)",
+            "1 oz de fudge",
+            "Espumamos leche en la jarra mediana a la vez que se hace el café. Temperatura final entre 55º y 60º",
+            "Movemos la jarrita de leche para integrar leche y espuma y eliminar burbujas grandes",
+            "Llenamos la taza con leche y espuma a la vez"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café americano con platito y cucharita chica",
+         "decoracion":"Media tableta de chocolate de 40% (cuadradito)"
+      },
+      {
+         "nombre":"Chocolate Caliente",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "6 oz de Leche",
+            "6 tabletas de chocolate de 60%",
+            "½ Oz de jarabe de vainilla",
+            "Cascara de naranja, canela y clavo",
+            "Calentamos en jarra mediana hasta los 80º",
+            "Servimos colado",
+            "Batimos con el batidor de mano después de servido"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza transparente con pedestal",
+         "decoracion":null
+      },
+      {
+         "nombre":"Infusiones De Sobre",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "1 sobre de infusión en jarra mediana o grande (rinde 2 a 3 tazas)"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café americano con platito y cucharita chica",
+         "decoracion":null
+      },
+      {
+         "nombre":"Infusiones De Hierba/Grano",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "“Una cucharadita por taza más 1 para la tetera”, en jarra grande"
+         ],
+         "preparacion":null,
+         "cristaleria":"Taza de café americano con platito y cucharita chica",
+         "decoracion":null
+      },
+      {
+         "nombre":"Jugo De Piña",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "5 oz Zumo de Piña",
+            "½ oz de Jarabe de azúcar",
+            "4.5 oz de agua y/o hielo (jarra pequeñita)",
+            "Programa frappe de la licuadora"
+         ],
+         "preparacion":null,
+         "cristaleria":"Copa Piña colada",
+         "decoracion":null
+      },
+      {
+         "nombre":"Jugo De Fresa",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "150g de fresas congeladas (un paquete)",
+            "½ oz de Jarabe de azúcar",
+            "4.5 oz de agua y/o hielo (jarra pequeñita)",
+            "Programa frappe de la licuadora"
+         ],
+         "preparacion":null,
+         "cristaleria":"Copa Piña Colada",
+         "decoracion":null
+      },
+      {
+         "nombre":"Jugo De Fresa Con Leche",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "150g de fresas congeladas (un paquete)",
+            "½ oz de Jarabe de azúcar",
+            "4.5 oz de leche (jarra pequeñita)",
+            "Programa frappe de la licuadora"
+         ],
+         "preparacion":null,
+         "cristaleria":"Copa Piña Colada",
+         "decoracion":null
+      },
+      {
+         "nombre":"Gaseosas",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            
+         ],
+         "preparacion":null,
+         "cristaleria":"vaso old fashioned",
+         "decoracion":null
+      },
+      {
+         "nombre":"Limonada Vaso",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "1 oz de jugo de limón",
+            "1 oz de Jarabe de azúcar",
+            "Llenar con agua",
+            "Mover con cucharilla de bar"
+         ],
+         "preparacion":null,
+         "cristaleria":"Vaso cervecero",
+         "decoracion":null
+      },
+      {
+         "nombre":"Limonada Jarra",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "1 ¾ oz de azúcar",
+            "3 limones criollos",
+            "Se cortan los 2 “polos” de cada limón",
+            "Se pone en la licuadora 1 litro de agua y el azúcar en velocidad 2 por 15 segundos",
+            "Se ponen los 3 limones y se da velocidad máxima por 10 Segundos (botón Pulse)",
+            "Se cuela en la jarra"
+         ],
+         "preparacion":null,
+         "cristaleria":"Jarra y vasos Old fashioned",
+         "decoracion":null
+      },
+      {
+         "nombre":"Limonada Real",
+         "categoria":"Cafeteria",
+         "ingredientes":[
+            "1/2 oz de jugo de limón TAHITI",
+            "1 oz de Jarabe Real del caso",
+            "6 oz de agua helada",
+            "Hielo"
+         ],
+         "preparacion":"Shakeado",
+         "cristaleria":"Vaso cervecero",
+         "decoracion":"rodaja de limón y cañita"
+      }
+   ]
+}
