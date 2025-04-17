@@ -1,3 +1,24 @@
+const SUPABASE_URL = "https://tu-proyecto.supabase.co";
+const SUPABASE_KEY = "tu-anon-key";
+
+async function obtenerRecetas() {
+  const res = await fetch(`${SUPABASE_URL}/rest/v1/recetas`, {
+    method: "GET",
+    headers: {
+      apikey: SUPABASE_KEY,
+      Authorization: `Bearer ${SUPABASE_KEY}`,
+      "Content-Type": "application/json",
+      Prefer: "return=representation"
+    }
+  });
+
+  const data = await res.json();
+  console.log("Recetas desde Supabase:", data);
+}
+
+obtenerRecetas();
+
+
 let recetas = [];
 
 fetch("cocktail_recipes.json")
