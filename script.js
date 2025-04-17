@@ -1,5 +1,5 @@
-const SUPABASE_URL = "https://tu-proyecto.supabase.co";
-const SUPABASE_KEY = "tu-anon-key";
+const SUPABASE_URL = "https://rnrvtwdmwjfcmkazrabe.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJucnZ0d2Rtd2pmY21rYXpyYWJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ4NTY1NjgsImV4cCI6MjA2MDQzMjU2OH0.HMo0F3_Oy6nrE_fGAXjofHqR6UhV0xz0miWe_wXk3aQ";
 
 async function obtenerRecetas() {
   const res = await fetch(`${SUPABASE_URL}/rest/v1/recetas`, {
